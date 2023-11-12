@@ -1,7 +1,7 @@
 name: Run CI build
 
 on:
-  pullrequest:
+  pull_request:
     branches: ['main']
 
 # Allow one concurrent deployment
