@@ -5,9 +5,9 @@ import './App.css'
 function App() {
 
   return (
-    <>
+    <div className="prose  dark:prose-invert">
       <HomePage />
-    </>
+    </div>
   )
 }
 
